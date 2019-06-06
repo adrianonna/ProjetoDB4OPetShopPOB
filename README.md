@@ -1,2 +1,1 @@
-# ProjetoPetShopPOB
-Projeto em java com persistência em banco db4o com swing.
+#Projeto-BD4O-PetShop-POB
